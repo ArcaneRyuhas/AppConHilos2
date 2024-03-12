@@ -1,0 +1,14 @@
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/bin/Debug/net8.0/AppConHilos2
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/bin/Debug/net8.0/AppConHilos2.deps.json
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/bin/Debug/net8.0/AppConHilos2.runtimeconfig.json
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/bin/Debug/net8.0/AppConHilos2.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/bin/Debug/net8.0/AppConHilos2.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.AssemblyInfoInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.AssemblyInfo.cs
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.csproj.CoreCompileInputs.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/refint/AppConHilos2.dll
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.pdb
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/AppConHilos2.genruntimeconfig.cache
+/Users/portilla/Documents/Escuela/Red/Programas /dsr/AppConHilos2/obj/Debug/net8.0/ref/AppConHilos2.dll
